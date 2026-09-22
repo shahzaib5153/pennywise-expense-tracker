@@ -2,7 +2,8 @@
 A small, responsive to-do list built with HTML, CSS, and JavaScript. Tasks are stored in browser localStorage, so the list remains available after refreshing the page.
 
 Repository:https://github.com/shahzaib5153/pennywise-expense-tracker
-:Live deployed application:https://shahzaib5153.github.io/pennywise-expense-tracker/
+
+Live site:https://shahzaib5153.github.io/pennywise-expense-tracker/
 
 ## Run locally
 
